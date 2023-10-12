@@ -1,0 +1,9 @@
+co\unicauca\sirs\salones\repository\SalonRepository.class
+co\unicauca\sirs\salones\controller\SalonController.class
+co\unicauca\sirs\salones\service\SalonService.class
+co\unicauca\sirs\salones\controller\mapper\SalonMapperImpl.class
+co\unicauca\sirs\salones\SalonesApplication.class
+co\unicauca\sirs\salones\entity\SalonEntity.class
+co\unicauca\sirs\salones\controller\mapper\SalonMapper.class
+co\unicauca\sirs\salones\controller\mapper\SalonDTO.class
+co\unicauca\sirs\salones\controller\request\SalonRequestDTO.class
