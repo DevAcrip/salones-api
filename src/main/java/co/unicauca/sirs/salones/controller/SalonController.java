@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.List;
-
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping(path = "api/v1/salones", produces = MediaType.APPLICATION_JSON_VALUE)
 public class SalonController {
